@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950601788276",
+    "firebase_url": "https://business-card-manager-b291c.firebaseio.com",
+    "project_id": "business-card-manager-b291c",
+    "storage_bucket": "business-card-manager-b291c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950601788276:android:bc934b8ce437d702489a21",
+        "android_client_info": {
+          "package_name": "danielhunt.businesscardmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950601788276-6gd2p7m7k70g4ire4t697dqhont95v25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSH9S52TPXzMnYg3IzInUWYuw4UdKAz7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950601788276-6gd2p7m7k70g4ire4t697dqhont95v25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
